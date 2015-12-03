@@ -1,0 +1,12 @@
+baseurl = "http://nicolasbrechet.com"
+languageCode = "en-us"
+title = "Nicolas Brechet"
+author = "Nicolas Brechet"
+
+[params]
+  logo      = "/images/logo.jpg"
+  copyright = "Nicolas Brechet All rights reserved."
+  twitter   = "https://twitter.com/nicolasbrechet"
+  github    = "https://github.com/nicolasbrechet/"
+  analytics = "UA-18895598-1"
+
